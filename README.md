@@ -1,4 +1,4 @@
-# Hey, I'm Lucas Perez 👋
+# Hey! 🚀
 
 **Lead Engineer** at [Sargent & Lundy](https://www.sargentlundy.com) · Chicago, IL · [lucasengineering.dev](https://lucasengineering.dev) · [LinkedIn](https://www.linkedin.com/in/lucasperezus/)
 
