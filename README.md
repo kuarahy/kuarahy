@@ -91,12 +91,12 @@ Config-driven React page shells — scaffold a form, workflow, or layout once as
 `TypeScript` `React` `npm`
 
 ### 🧵 [loreweaver](https://github.com/kuarahy/loreweaver)
-A browser-based storyboard engine for tabletop RPG campaigns. System-agnostic by design — no D&D assumptions, no vendor lock-in. Ships with a Forgotten Realms Sword Coast showcase. → [Live demo](https://loreweaver-eldenmoor.vercel.app)
+A browser-based storyboard engine for tabletop RPG campaigns. System-agnostic by design — no D&D assumptions, no vendor lock-in. Ships with a Forgotten Realms Sword Coast showcase. → [Live demo](https://loreweaver.vercel.app)
 `JavaScript` `Vercel`
 
 ### 🎲 [Marvel United Randomizer](https://github.com/kuarahy/Marvel-United-Randomizer)
-Randomizes hero/villain matchups and campaign structures for Marvel United board games. Includes full Avengers and X-Men campaign files.
-`Java`
+Randomizes hero/villain matchups and campaign structures for Marvel United board games. Includes full Avengers and X-Men campaign files. → [Live demo](https://marvel-united-randomizer.vercel.app)
+`Typescript` `React`
 
 ### 📡 [kuarahy-streaming](https://github.com/kuarahy/kuarahy-streaming)
 Local notification system for streamers. Go backend proxy + React/Vite frontend running entirely on `localhost` — no cloud, no third-party subscriptions. Feeds live alerts directly into OBS browser sources.
