@@ -50,7 +50,7 @@ I build software that keeps large organizations from setting themselves on fire.
 
 | | Company | Role | Duration |
 |---|---|---|---|
-| ⚡ | **Sargent & Lundy** | Lead Engineer | Current · 9 months |
+| ⚡ | **Sargent & Lundy** | Lead Engineer | Current · Started in October 2025 |
 | 💊 | **Walgreens** | Senior Software Engineer II / Technical Lead | 7 years |
 | 🎓 | **Loyola University of Chicago** | Full Stack Developer | 1 year |
 | 🎮 | **Keywords-VMC Studios (Ubisoft)** | Quality Assurance Engineer | 4 years |
@@ -115,8 +115,11 @@ Interactive HTML page to register and track World Cup results. Like filling in a
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kuarahy&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuarahy&layout=compact&theme=github_dark&hide_border=true" height="150" />
+  <img src="https://streak-stats.demolab.com/?user=kuarahy&theme=github-dark&hide_border=true" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kuarahy&theme=github_dark" height="150" />
+</p>
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kuarahy&theme=github_dark" />
 </p>
 
 ---
