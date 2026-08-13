@@ -98,7 +98,11 @@ A browser-based storyboard engine for tabletop RPG campaigns. System-agnostic by
 Randomizes hero/villain matchups and campaign structures for Marvel United board games. Includes full Avengers and X-Men campaign files. → [Live demo](https://marvel-united-randomizer.vercel.app)
 `Typescript` `React`
 
-### 📡 [kuarahy-streaming](https://github.com/kuarahy/kuarahy-streaming)
+### �️ [mocker](https://github.com/kuarahy/mocker)
+Zero-install wireframe tool that runs as a single HTML file — open it in a browser, drag elements onto a canvas, save to JSON, export to PDF. No server, no npm, no cloud.
+`HTML` `CSS` `JavaScript`
+
+### �📡 [kuarahy-streaming](https://github.com/kuarahy/kuarahy-streaming)
 Local notification system for streamers. Go backend proxy + React/Vite frontend running entirely on `localhost` — no cloud, no third-party subscriptions. Feeds live alerts directly into OBS browser sources.
 `Go` `React` `Vite`
 
